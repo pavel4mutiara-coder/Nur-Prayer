@@ -1,0 +1,30 @@
+
+{
+  "project_info": {
+    "project_number": "632198734978",
+    "project_id": "dream-7958e",
+    "storage_bucket": "dream-7958e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632198734978:android:e70dcaea816d98a629009b",
+        "android_client_info": {
+          "package_name": "Nur.Prayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcuAS0V3rQBOJCYwY8Hv0EfAWJIOCd4PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

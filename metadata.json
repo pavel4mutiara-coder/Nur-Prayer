@@ -1,0 +1,7 @@
+{
+  "name": "Nur Prayer: Offline Times & Qibla",
+  "description": "A professional, offline-first Islamic prayer time and Qibla application featuring high-precision astronomical calculations and a modern, elder-friendly UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
