@@ -1,0 +1,17 @@
+
+{
+  "appId": "nur.prayer.app",
+  "appName": "Nur Prayer",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": []
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "buildOptions": {
+      "releaseType": "APK"
+    }
+  }
+}

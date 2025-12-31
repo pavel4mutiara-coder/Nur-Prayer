@@ -1,7 +1,9 @@
 {
   "name": "Nur Prayer: Offline Times & Qibla",
-  "description": "A professional, offline-first Islamic prayer time and Qibla application featuring high-precision astronomical calculations and a modern, elder-friendly UI.",
+  "description": "A professional, offline-first Islamic prayer time and Qibla application.",
   "requestFramePermissions": [
     "geolocation"
-  ]
+  ],
+  "android_package_name": "nur.prayer.app",
+  "theme_color": "#065f46"
 }
